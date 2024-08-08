@@ -1,1 +1,1 @@
-https://github.com/shaunphang123/Fake_News_Dectector
+https://github.com/shaunphang123/Fake-News-Detector
